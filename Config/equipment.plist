@@ -1,0 +1,28 @@
+//Author: CommonSenseOTB(thinking outside-the-box for your playing enjoyment and the improvement of oolite)
+//Completed: Dec. 17, 2011 
+//SniperLockv1.oxp
+//Licensed under Creative Commons: attribution, non-commercial, sharealike with clauses - see readme.txt
+
+(
+	(
+	11, 
+	5000, 
+	"SniperLock Software & Control Interface", 
+	"EQ_SNIPERLOCK", 
+	"SniperLock software and control interface automatically micro-corrects the pitch and yaw of the ship to temporarily 'lock-on' targets for improved accuracy and better sniping. Must have Scanner Targetting Enhancement installed to operate.", 
+		{
+                "available_to_all" = yes;
+		}
+	),
+	(
+    11,
+    0,
+    "Sell SniperLock",
+    "EQ_SNIPERLOCK_REMOVAL",
+    "Sell SniperLock for a 250 credit refund.",
+        {
+                "available_to_all" = yes;
+			    "requires_equipment" = "EQ_SNIPERLOCK";
+        }
+    )
+)
