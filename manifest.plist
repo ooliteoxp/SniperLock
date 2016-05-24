@@ -1,0 +1,12 @@
+{
+    identifier = "oolite.oxp.CommonSenseOTB.SniperLock";
+    title = "SniperLock";
+    author = "CommonSenseOTB";
+    license = "CC BY-NC-SA 3.0";
+    version = "1.0.0";
+    description = "SniperLock software allows for more accurate targetting by enabling longer dwell times on targets.";
+    category = "Equipment";
+    information_url = "http://wiki.alioth.net/index.php/SniperLock";
+    tags = ( "Equipment" );
+    required_oolite_version = "1.80";
+}

@@ -29,7 +29,7 @@ No dependancies.
 Author: CommonSenseOTB(thinking outside-the-box for your playing enjoyment and the improvement of oolite)
 Completed: Dec. 17, 2011
 
-SniperLockv1.oxp.
+SniperLock.oxp.
 
 SniperLock software acts as an intermediary between you and your ship. When you have a great 
 shot lined up on your currently selected target, the software temporarily takes micro-control 
